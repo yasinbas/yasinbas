@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/yasnbas" target="blank"><img src="https://img.shields.io/twitter/follow/yasnbas?logo=twitter&style=for-the-badge" alt="yasnbas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/buildSavage1" target="blank"><img src="https://img.shields.io/twitter/follow/buildSavage1?logo=twitter&style=for-the-badge" alt="buildSavage1" /></a> </p>
 
 - 🌱 I’m currently learning **Dart & Flutter & Kotlin**
 
