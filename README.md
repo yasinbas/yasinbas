@@ -1,4 +1,4 @@
-# Hi, I am Yasin BAS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hi, I am Yasin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yasinbas&show_icons=true&theme=radical)
 
