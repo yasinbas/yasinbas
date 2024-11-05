@@ -28,7 +28,6 @@ A Ruby on Rails application designed to facilitate surveys and data collection. 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yasinbas&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinbas&layout=compact&theme=github_dark&exclude_repo=android,ios,flutter)](https://github.com/yasinbas)
 
