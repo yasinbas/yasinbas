@@ -32,15 +32,10 @@ A Ruby on Rails application designed to facilitate surveys and data collection. 
 - Real-time updates with Hotwire
 - Responsive design using Tailwind CSS
 
-### [Another Project](https://github.com/yasinbas/another-project)
-Brief description of another project you are working on or have completed. Highlight key features and technologies used.
-
 ---
 
 ## 🌱 I’m currently learning
 - Advanced Ruby techniques
-- Frontend frameworks like React.js
-- Machine Learning basics
 
 ## 💬 Ask me about
 - Ruby on Rails development
@@ -50,5 +45,5 @@ Brief description of another project you are working on or have completed. Highl
 ---
 
 ## 📫 How to reach me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [yasinbas1@hotmail.com](mailto:yasinbas1@hotmail.com)
 - **LinkedIn:** [yasinbas1](https://www.linkedin.com/in/yasinbas1/)
