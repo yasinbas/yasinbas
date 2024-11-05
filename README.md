@@ -9,9 +9,6 @@ I am a passionate software developer with expertise in Ruby on Rails, PostgreSQL
 - **Databases:** PostgreSQL, SQLite
 - **Tools:** Git, GitHub, Docker, RSpec, FactoryBot, Sidekiq
 
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinbas&show_icons=true&theme=radical)
-
 ---
 
 ## 🛠️ Projects
@@ -25,6 +22,9 @@ A Ruby on Rails application designed to facilitate surveys and data collection. 
 
 ## 🌱 I’m currently learning
 - Advanced Ruby techniques
+
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinbas&show_icons=true&theme=radical)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
